@@ -1,0 +1,12 @@
+.items-buttons {
+  display: flex;
+  gap: 1px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.title-i {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}

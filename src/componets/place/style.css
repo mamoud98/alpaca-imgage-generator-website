@@ -1,0 +1,11 @@
+.alpacas-buttons {
+  display: flex;
+  gap: 1px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.title-p {
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
